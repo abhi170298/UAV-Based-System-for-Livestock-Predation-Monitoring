@@ -1,3 +1,3 @@
-UAV-Based System for Livestock Predation Monitoring
+# **UAV-Based System for Livestock Predation Monitoring**
 
-Deep Neural Network project using python
+## Deep Neural Network project using python
